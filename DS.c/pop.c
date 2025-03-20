@@ -49,5 +49,6 @@ while (1)
         break;
     }
 }
+printf("Hello word\n");
 return 0;
 }
